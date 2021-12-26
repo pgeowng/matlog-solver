@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/matlog-solver.git/static/css/main.a028f033.css",
+    "main.js": "/matlog-solver.git/static/js/main.54afb15b.js",
+    "index.html": "/matlog-solver.git/index.html",
+    "main.a028f033.css.map": "/matlog-solver.git/static/css/main.a028f033.css.map",
+    "main.54afb15b.js.map": "/matlog-solver.git/static/js/main.54afb15b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a028f033.css",
+    "static/js/main.54afb15b.js"
+  ]
+}
